@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300;400;700&display=swap');
 
 * {
-    font-family: 'Sofadi One', Arial, Helvetica, sans-serif;
+    font-family: 'Josefin Sans', Arial, Helvetica, sans-serif;
 }
 
 body {
     background-color: rgb(70,142,236);
-    font: normal 15pt Arial;
+    font-size: 14px;
 }
 
 header {
@@ -15,10 +15,10 @@ header {
 }
 
 section {
+    width: 350px;
     background-color: white;
     border-radius: 10px;
     padding: 15px;
-    width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.479);
 }
