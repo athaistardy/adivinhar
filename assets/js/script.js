@@ -4,7 +4,7 @@ var player = 0
 
 function sortear() {
     var min = 1
-    var max = 100
+    var max = 50
     var dif = max - min
     var aleatorio = Math.random()
     com = min + Math.trunc(dif * aleatorio)
